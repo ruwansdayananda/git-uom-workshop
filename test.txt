@@ -1,1 +1,3 @@
 Hi ! This is only a test text..! Ignore this.
+
+This is the second change for the text.txt file.
